@@ -1,3 +1,5 @@
+package me.zhengdong.nltk;
+
 import org.junit.Test;
 
 import java.util.Arrays;
